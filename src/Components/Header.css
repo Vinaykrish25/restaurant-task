@@ -1,0 +1,8 @@
+.head{
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:40px;
+    font-weight: lighter;
+    color: orange;
+}

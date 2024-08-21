@@ -1,0 +1,95 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif;  */
+}
+#status{
+    float: right;
+    margin-right: 20px;
+    background-color: rgb(255, 225, 169);
+    outline: none;
+    border: none;
+    font-size: 15px;
+}
+.menu p{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 5px 0px;
+    text-align: center;
+}
+.item-r1{
+    display:inline-flex;
+    gap: 220px;
+}
+.item-r2{
+    display:inline-flex;
+    gap: 220px;
+}
+.item-r3{
+    display:inline-flex;
+    gap: 220px;
+}
+.item1{
+    display: flex;
+    gap: 50px;
+    width: 500px;
+}
+.item2{
+    display: flex;
+    gap: 50px;
+    width: 500px;
+}
+.cont1 button{
+    background-color: green;
+    color: black;
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+.cont4 button{
+    background-color: green;
+    color: black;
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+.cont2 button{
+    background-color: green;
+    color: black;
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+.cont3 button{
+    background-color: green;
+    color: black;
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+.cont5 button{
+    background-color: green;
+    color: black;
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+
+.cont6 button{
+    background-color: green;
+    color: black;
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+
