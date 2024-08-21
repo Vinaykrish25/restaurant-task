@@ -26,7 +26,7 @@ const Content = () => {
         const stock = document.getElementById("food1")
         var txt = Number(stock.innerText)
         if (txt >= 1) {
-            if (txt == 1) {
+            if (txt === 1) {
                 stock.innerText = "Sold Out"
                 stock.style.color = "red"
             }
@@ -39,7 +39,7 @@ const Content = () => {
         const stock = document.getElementById("food2")
         var txt = Number(stock.innerText)
         if (txt >= 1) {
-            if (txt == 1) {
+            if (txt === 1) {
                 stock.innerText = "Sold Out"
                 stock.style.color = "red"
             }
@@ -52,7 +52,7 @@ const Content = () => {
         const stock = document.getElementById("food3")
         var txt = Number(stock.innerText)
         if (txt >= 1) {
-            if (txt == 1) {
+            if (txt === 1) {
                 stock.innerText = "Sold Out"
                 stock.style.color = "red"
             }
@@ -65,7 +65,7 @@ const Content = () => {
         const stock = document.getElementById("food4")
         var txt = Number(stock.innerText)
         if (txt >= 1) {
-            if (txt == 1) {
+            if (txt === 1) {
                 stock.innerText = "Sold Out"
                 stock.style.color = "red"
             }
@@ -78,7 +78,7 @@ const Content = () => {
         const stock = document.getElementById("food5")
         var txt = Number(stock.innerText)
         if (txt >= 1) {
-            if (txt == 1) {
+            if (txt === 1) {
                 stock.innerText = "Sold Out"
                 stock.style.color = "red"
             }
@@ -91,7 +91,7 @@ const Content = () => {
         const stock = document.getElementById("food6")
         var txt = Number(stock.innerText)
         if (txt >= 1) {
-            if (txt == 1) {
+            if (txt === 1) {
                 stock.innerText = "Sold Out"
                 stock.style.color = "red"
             }
