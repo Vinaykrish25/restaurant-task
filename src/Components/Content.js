@@ -120,7 +120,7 @@ const Content = () => {
                 <div className='item-r1'>
                     <div className='item1'>
                         <div className='img1'>
-                            <img src={img1} alt='image' width={220} height={250}></img>
+                            <img src={img1} width={220} height={250}></img>
                         </div>
                         <div className='cont1'>
                             <h2>Focaccia</h2>
@@ -132,7 +132,7 @@ const Content = () => {
                     </div>
                     <div className='item2'>
                         <div className='img2'>
-                            <img src={img2} alt='image' width={220} height={250}></img>
+                            <img src={img2} width={220} height={250}></img>
                         </div>
                         <div className='cont2'>
                             <h2>Pizza Margherita</h2>
@@ -152,7 +152,7 @@ const Content = () => {
                 <div className='item-r2'>
                     <div className='item1'>
                         <div className='img3'>
-                            <img src={img3} alt='image' width={220} height={250}></img>
+                            <img src={img3} width={220} height={250}></img>
                         </div>
                         <div className='cont3'>
                             <h2>Pizza Spinaci</h2>
@@ -164,7 +164,7 @@ const Content = () => {
                     </div>
                     <div className='item2'>
                         <div className='img4'>
-                            <img src={img4} alt='image' width={220} height={250}></img>
+                            <img src={img4} width={220} height={250}></img>
                         </div>
                         <div className='cont4'>
                             <h2>Pizza Funghi</h2>
@@ -186,7 +186,7 @@ const Content = () => {
             <div className='item-r3'>
                 <div className='item1'>
                     <div className='img5'>
-                        <img src={img5} alt='image' width={220} height={250}></img>
+                        <img src={img5} width={220} height={250}></img>
                     </div>
                     <div className='cont5'>
                         <h2>Pizza Salamino</h2>
@@ -198,7 +198,7 @@ const Content = () => {
                 </div>
                 <div className='item2'>
                     <div className='img6'>
-                        <img src={img6} alt='image' width={220} height={250}></img>
+                        <img src={img6} width={220} height={250}></img>
                     </div>
                     <div className='cont6'>
                         <h2>Pizza Prosciutto</h2>
